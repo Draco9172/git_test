@@ -1,2 +1,2 @@
 # git_test
-Repository for learning git github
+first repository, trying git github
